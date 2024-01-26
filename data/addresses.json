@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Samantha",
+    "apartment_number": "55-57",
+    "streetname": "Rivington St",
+    "city": "London",
+    "postcode": "ECA24 3QA",
+    "phone": "0736844756"
+  },
+  {
+    "id": "2",
+    "name": "Billy",
+    "apartment_number": "45",
+    "streetname": "Old Street",
+    "city": "London",
+    "postcode": "ECA24 5PL",
+    "phone": "07930229384"
+  },
+  {
+    "id": "3",
+    "name": "Janos",
+    "apartment_number": "45",
+    "streetname": "Chad Street",
+    "city": "London",
+    "postcode": "W4 8MN",
+    "phone": "07935849856"
+  },
+  {
+    "id": "af189aea-76f9-4efd-9964-9c5a750f01be",
+    "name": "Fred",
+    "apartment_number": "88",
+    "streetname": "New Street",
+    "city": "London",
+    "postcode": "ECA24 3QA",
+    "phone": "0736844756"
+  }
+]
